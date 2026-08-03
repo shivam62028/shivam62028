@@ -30,7 +30,7 @@
 <!-- CLAN CASTLE / PROFILE CARD -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=30&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%8F%B0+WELCOME+TO+MY+VILLAGE!+%F0%9F%8F%B0;%E2%9A%94%EF%B8%8F+CHIEF+YOUR_NAME+%E2%9A%94%EF%B8%8F;%F0%9F%92%AA+READY+FOR+BATTLE!+%F0%9F%92%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=30&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%8F%B0+WELCOME+TO+MY+VILLAGE!+%F0%9F%8F%B0;%E2%9A%94%EF%B8%8F+CHIEF+SHIVAM+%E2%9A%94%EF%B8%8F;%F0%9F%92%AA+READY+FOR+BATTLE!+%F0%9F%92%AA" alt="Typing SVG" />
   </a>
 </div>
 
@@ -49,7 +49,7 @@
 ║   ┃                           👑 CHIEF PROFILE 👑                                        ┃   ║
 ║   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛   ║
 ║                                                                                              ║
-║         🎖️  CHIEF NAME      ║  YOUR_NAME                                                    ║
+║         🎖️  CHIEF NAME      ║  SHIVAM                                                    ║
 ║         🏰 TOWN HALL        ║  Level 16 (MAX)                                               ║
 ║         ⭐ EXPERIENCE       ║  Level 250+ ████████████████████ MAX                          ║
 ║         🏆 TROPHIES         ║  6,500+ 🏆 (Legend League)                                    ║
@@ -59,7 +59,7 @@
 ║         🎯 WAR STARS        ║  2,500+ ⭐⭐⭐                                                  ║
 ║                                                                                              ║
 ║   ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓   ║
-║   ┃  🏅 ROLE: Full Stack Developer | Code Warrior | Open Source Crusader               ┃   ║
+║   ┃  🏅 ROLE: Full Stack Developer | Tech Enthusiast | Code Warrior | Open Source ❤️   ┃   ║
 ║   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛   ║
 ║                                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════╝
@@ -325,8 +325,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1a2e&title_color=FFD700&icon_color=FF6B6B&text_color=FFFFFF&ring_color=FFD700&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gruvbox&hide_border=true&background=1a1a2e&stroke=FFD700&ring=FFD700&fire=FF6B6B&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam62028&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1a2e&title_color=FFD700&icon_color=FF6B6B&text_color=FFFFFF&ring_color=FFD700&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam62028&theme=gruvbox&hide_border=true&background=1a1a2e&stroke=FFD700&ring=FFD700&fire=FF6B6B&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="180"/>
 </div>
 
 <br>
@@ -339,11 +339,11 @@
 ║                                    📜 WAR LOG 📜                                          ║
 ╠═══════════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                           ║
-║   ⚔️  WAR #1: Open Source Contribution Campaign          RESULT: ⭐⭐⭐ VICTORY!          ║
-║   ⚔️  WAR #2: Hackathon Battle 2024                      RESULT: ⭐⭐⭐ VICTORY!          ║
-║   ⚔️  WAR #3: Full Stack Project Siege                   RESULT: ⭐⭐⭐ VICTORY!          ║
+║   ⚔️  WAR #1: Personal Portfolio Website                  RESULT: ⭐⭐⭐ VICTORY!          ║
+║   ⚔️  WAR #2: E-Commerce Full Stack App                  RESULT: ⭐⭐⭐ VICTORY!          ║
+║   ⚔️  WAR #3: React & Node.js Projects                   RESULT: ⭐⭐⭐ VICTORY!          ║
 ║   ⚔️  WAR #4: AI/ML Integration Quest                    RESULT: ⭐⭐☆ IN PROGRESS       ║
-║   ⚔️  WAR #5: Cloud Architecture Raid                    RESULT: ⭐⭐⭐ VICTORY!          ║
+║   ⚔️  WAR #5: Open Source Contributions                  RESULT: ⭐⭐⭐ VICTORY!          ║
 ║                                                                                           ║
 ║   ═══════════════════════════════════════════════════════════════════════════════════════ ║
 ║                                                                                           ║
@@ -358,7 +358,7 @@
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=⚔️%20Daily%20Battle%20Activity%20⚔️&bg_color=1a1a2e&color=FFD700&line=FF6B6B&point=FFFFFF&area=true&area_color=8B4513&hide_border=true&radius=12" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam62028&custom_title=⚔️%20Daily%20Battle%20Activity%20⚔️&bg_color=1a1a2e&color=FFD700&line=FF6B6B&point=FFFFFF&area=true&area_color=8B4513&hide_border=true&radius=12" width="100%"/>
 </div>
 
 <!-- GOLDEN DIVIDER -->
@@ -382,7 +382,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shivam62028&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophy"/>
 </div>
 
 <!-- GOLDEN DIVIDER -->
@@ -399,9 +399,10 @@
 ║                              💬 CLAN CHAT - CONNECT WITH ME 💬                            ║
 ║                                                                                           ║
 ║   ┌─────────────────────────────────────────────────────────────────────────────────────┐ ║
-║   │  👑 Chief YOUR_NAME: "Looking for skilled developers to join my clan!"              │ ║
-║   │  🛡️ Elder Code: "Join us for epic coding battles!"                                  │ ║
-║   │  ⚔️ Co-Leader Dev: "Request troops below! We donate within 5 minutes!"              │ ║
+║   │  👑 Chief SHIVAM: "Looking for skilled developers to join my clan!"                │ ║
+║   │  🛡️ Elder Code: "Let's build amazing projects together!"                           │ ║
+║   │  ⚔️ Co-Leader Dev: "Connect with me! I respond within 24 hours!"                   │ ║
+║   │  💬 SHIVAM: "Open for collaborations, freelance & exciting opportunities!"         │ ║
 ║   └─────────────────────────────────────────────────────────────────────────────────────┘ ║
 ║                                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════╝
@@ -411,12 +412,12 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=1a1a2e)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Twitter](https://img.shields.io/badge/Twitter-FFD700?style=for-the-badge&logo=x&logoColor=1a1a2e)](https://twitter.com/YOUR_TWITTER)
-  [![Discord](https://img.shields.io/badge/Discord-FFD700?style=for-the-badge&logo=discord&logoColor=1a1a2e)](https://discord.gg/YOUR_DISCORD)
-  [![YouTube](https://img.shields.io/badge/YouTube-FFD700?style=for-the-badge&logo=youtube&logoColor=1a1a2e)](https://youtube.com/@YOUR_YOUTUBE)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=safari&logoColor=1a1a2e)](https://YOUR_PORTFOLIO.com)
-  [![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=1a1a2e)](mailto:YOUR_EMAIL@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=1a1a2e)](https://linkedin.com/in/shivam62028)
+  [![Twitter](https://img.shields.io/badge/Twitter-FFD700?style=for-the-badge&logo=x&logoColor=1a1a2e)](https://twitter.com/shivam62028)
+  [![Discord](https://img.shields.io/badge/Discord-FFD700?style=for-the-badge&logo=discord&logoColor=1a1a2e)](https://discord.gg/shivam62028)
+  [![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=1a1a2e)](https://github.com/shivam62028)
+  [![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=1a1a2e)](https://instagram.com/shivam62028)
+  [![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=1a1a2e)](mailto:shivam62028@gmail.com)
   
 </div>
 
@@ -439,18 +440,18 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=gruvbox" width="100%"/>
+  <a href="https://github.com/shivam62028">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam62028&theme=gruvbox" width="100%"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=gruvbox" width="32%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=gruvbox" width="32%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=gruvbox&utcOffset=8" width="32%"/>
+  <a href="https://github.com/shivam62028">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivam62028&theme=gruvbox" width="32%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivam62028&theme=gruvbox" width="32%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivam62028&theme=gruvbox&utcOffset=8" width="32%"/>
   </a>
 </div>
 
@@ -505,8 +506,8 @@
 
 <!-- 3D ISOMETRIC CONTRIBUTION -->
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&theme=gruvbox&hide_border=true&bg_color=1a1a2e&title_color=FFD700&text_color=FFFFFF" height="300"/>
+  <a href="https://github.com/shivam62028">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam62028&layout=donut-vertical&theme=gruvbox&hide_border=true&bg_color=1a1a2e&title_color=FFD700&text_color=FFFFFF" height="300"/>
   </a>
 </div>
 
@@ -549,8 +550,8 @@
 ╚═══════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=1a1a2e&interchange=true&bar_color=FFD700" alt="Spotify Now Playing"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31limdg2a5mnnorcuikbwvfzkhlm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31limdg2a5mnnorcuikbwvfzkhlm&cover_image=true&theme=default&show_offline=true&background_color=1a1a2e&interchange=true&bar_color=FFD700" alt="Spotify Now Playing"/>
   </a>
 </div>
 
@@ -588,7 +589,7 @@
 <!-- VISITOR COUNTER -->
 <div align="center">
   <br>
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Visitor Count"/>
+  <img src="https://profile-counter.glitch.me/shivam62028/count.svg" alt="Visitor Count"/>
   <br>
   <sub>👑 Chiefs who visited this village 👑</sub>
   <br><br>
